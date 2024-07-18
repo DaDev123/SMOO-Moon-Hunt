@@ -1,4 +1,4 @@
-# SMOO-Moon-Hunt
+# SMOO-Moon-Race
 
 I am making a Moon Race event for my friends
 
